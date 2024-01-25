@@ -22,9 +22,11 @@ jobs:
       run: deno run --allow-read --allow-write --allow-net index.ts
 
     - name: Commit updated links
-      run:
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add dead-links.json links.json
-        git commit -m "Update links"
-        git push
+      uses: devops-infra/action-commit-push@v0.9.2
+      with:
+        github_token: "${{ secrets.GITHUB_TOKEN }}"
+        add_timestamp: true
+        commit_prefix: "[AUTO]"
+        commit_message: "${{ github.event.repository.updated_at}}: update links"
+        force: false
+        target_branch: update/version
