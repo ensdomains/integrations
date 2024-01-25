@@ -5,6 +5,9 @@ on:
       - cron: '0 0 * * *'
     workflow_dispatch:
 
+permissions:
+    contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,12 +24,6 @@ jobs:
     - name: Run the script
       run: deno run --allow-read --allow-write --allow-net index.ts
 
-    - name: Commit updated links
-      uses: devops-infra/action-commit-push@v0.9.2
+    - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        github_token: "${{ secrets.GITHUB_TOKEN }}"
-        add_timestamp: false
-        commit_prefix: "[AUTO]"
-        commit_message: "${{ github.event.repository.updated_at}}: update links"
-        force: false
-        target_branch: main
+        commit_message: "[${{ github.event.repository.updated_at}}] update links"
