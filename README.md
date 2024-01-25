@@ -1,2 +1,3 @@
 # integrations
-List of integrations for ENS
+
+List of integrations for ENS. Updates every day.

@@ -1,0 +1,29 @@
+name: Integration links
+
+on:
+    schedule:
+      - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+
+    - name: Run the script
+      run: deno run --allow-read --allow-write --allow-net index.ts
+
+    - name: Commit updated links
+      run:
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add dead-links.json links.json
+        git commit -m "Update links"
+        git push
