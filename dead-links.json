@@ -42,57 +42,32 @@
   "chilliswap": {
     "name": "Chilliswap",
     "link": "https://exchange.chilliswap.org/",
-    "cause": "Signal timed out."
+    "cause": "error sending request for url (https://exchange.chilliswap.org/): error trying to connect: invalid peer certificate: NotValidForName"
   },
   "chipdips": {
     "name": "ChipDips",
     "link": "https://chipdip.io/",
-    "cause": "Signal timed out."
-  },
-  "clarity": {
-    "name": "Clarity",
-    "link": "https://www.clarity.so/",
-    "cause": "Signal timed out."
-  },
-  "cloudflare": {
-    "name": "Cloudflare",
-    "link": "https://www.cloudflare.com/",
-    "cause": "Signal timed out."
+    "cause": "error sending request for url (https://chipdip.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
   "cloutchat": {
     "name": "Cloutchat",
     "link": "https://cloutchat.xyz/",
-    "cause": "Signal timed out."
+    "cause": "error sending request for url (https://cloutchat.xyz/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
   "compvote": {
     "name": "Comp.vote",
     "link": "https://comp.vote/",
     "cause": "Signal timed out."
   },
-  "cowswap": {
-    "name": "CowSwap",
-    "link": "https://cowswap.exchange/#/swap",
-    "cause": "Signal timed out."
-  },
-  "creamfinance": {
-    "name": "C.R.E.A.M.",
-    "link": "https://app.cream.finance/",
-    "cause": "Signal timed out."
-  },
   "crocofinance": {
     "name": "Croco Finance",
     "link": "https://croco.finance/",
-    "cause": "Signal timed out."
-  },
-  "crocrow": {
-    "name": "CRO CROW",
-    "link": "https://crocrow.com/",
-    "cause": "Signal timed out."
+    "cause": "error sending request for url (https://croco.finance/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
   "dappquery": {
     "name": "Dapp Query",
     "link": "https://dappquery.com/integration/ens",
-    "cause": "Signal timed out."
+    "cause": "error sending request for url (https://dappquery.com/integration/ens): error trying to connect: invalid peer certificate: NotValidForName"
   },
   "davatar": {
     "name": "Davatar",
@@ -104,89 +79,14 @@
     "link": "www.daylight.xyz",
     "cause": "Invalid URL: 'www.daylight.xyz'"
   },
-  "debank": {
-    "name": "DeBank",
-    "link": "https://debank.com/",
-    "cause": "Signal timed out."
-  },
-  "decentraland": {
-    "name": "Decentraland",
-    "link": "https://decentraland.org/",
-    "cause": "Signal timed out."
-  },
-  "decenttokenvesting": {
-    "name": "Decent Token Vesting",
-    "link": "https://vesting.decentlabs.io/",
-    "cause": "Signal timed out."
-  },
-  "defi777": {
-    "name": "DeFi777",
-    "link": "https://defi777.com/",
-    "cause": "Signal timed out."
-  },
   "devdaovisualizer": {
     "name": "DevDao Visualizer",
     "link": "https://devdao.raz.works/#/",
     "cause": "error sending request for url (https://devdao.raz.works/#/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
-  "devparty": {
-    "name": "Devparty",
-    "link": "https://devparty.io/",
-    "cause": "Signal timed out."
-  },
-  "dexwallet": {
-    "name": "DexWallet",
-    "link": "https://www.dexwallet.io/",
-    "cause": "Signal timed out."
-  },
-  "dhedge": {
-    "name": "dHEDGE",
-    "link": "https://app.dhedge.org/",
-    "cause": "Signal timed out."
-  },
-  "dia": {
-    "name": "DIA",
-    "link": "https://www.diadata.org/",
-    "cause": "Signal timed out."
-  },
-  "dnsxyz": {
-    "name": "DNS.XYZ",
-    "link": "https://dns.xyz/",
-    "cause": "Signal timed out."
-  },
   "doomcatrescue": {
     "name": "Doom Cat Rescue",
     "link": "https://www.doom.cat/",
-    "cause": "Signal timed out."
-  },
-  "dynalock": {
-    "name": "Dynalock",
-    "link": "https://play.google.com/store/apps/details?id=cz.telematix.ethereumwallet",
-    "cause": "Signal timed out."
-  },
-  "earnifi": {
-    "name": "Earnifi",
-    "link": "https://earni.fi/",
-    "cause": "Signal timed out."
-  },
-  "easycryptoname": {
-    "name": "Easy Crypto Name",
-    "link": "https://easycryptoname.com/",
-    "cause": "Signal timed out."
-  },
-  "easydns": {
-    "name": "easyDNS",
-    "link": "https://easydns.com/",
-    "cause": "Signal timed out."
-  },
-  "eauth": {
-    "name": "Eauth",
-    "link": "https://eauth.pelith.com/",
-    "cause": "Signal timed out."
-  },
-  "edge": {
-    "name": "Edge",
-    "link": "https://edge.app/",
     "cause": "Signal timed out."
   },
   "ensme": {
@@ -202,17 +102,17 @@
   "fabrx": {
     "name": "Fabrx",
     "link": "https://www.fabrx.io/",
-    "cause": "error sending request for url (https://www.fabrx.io/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname"
+    "cause": "error sending request for url (https://www.fabrx.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
   "fantastic12": {
     "name": "Fantastic12",
     "link": "https://f12.network/",
     "cause": "error sending request for url (https://f12.network/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
-  "fleek": {
-    "name": "Fleek",
-    "link": "https://fleek.co/",
-    "cause": "error sending request for url (https://fleek.co/): error trying to connect: tcp connect error: Connection refused (os error 111)"
+  "farmfol": {
+    "name": "farmfol.io",
+    "link": "https://farmfol.io/",
+    "cause": "Signal timed out."
   },
   "freeens": {
     "name": "Free ENS",
@@ -274,16 +174,6 @@
     "link": "https://linkswap.app/",
     "cause": "Signal timed out."
   },
-  "litgateway": {
-    "name": "Lit Gateway",
-    "link": "https://litgateway.com/",
-    "cause": "Signal timed out."
-  },
-  "lobby": {
-    "name": "Lobby",
-    "link": "https://www.lobby.so/",
-    "cause": "Signal timed out."
-  },
   "masterpiece": {
     "name": "Masterpiece",
     "link": "https://masterpiece.so/",
@@ -308,6 +198,11 @@
     "name": "Moonshot Bots",
     "link": "https://bots.moonshotcollective.space/",
     "cause": "error sending request for url (https://bots.moonshotcollective.space/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
+  },
+  "movement": {
+    "name": "movement",
+    "link": "https://www.movement.fm/",
+    "cause": "Signal timed out."
   },
   "mover": {
     "name": "Mover",
@@ -359,11 +254,6 @@
     "link": "https://omni.xdaichain.com/",
     "cause": "error sending request for url (https://omni.xdaichain.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
-  "onjuno": {
-    "name": "OnJuno",
-    "link": "https://onjuno.com/crypto",
-    "cause": "Signal timed out."
-  },
   "paytomat": {
     "name": "Paytomat",
     "link": "https://paytomat.com/en/",
@@ -414,30 +304,10 @@
     "link": "https://sakeswap.finance/",
     "cause": "Signal timed out."
   },
-  "sandboxgame": {
-    "name": "The Sandbox",
-    "link": "https://sandbox.game/",
-    "cause": "Signal timed out."
-  },
-  "sandwichedwtf": {
-    "name": "Sandwiched.wtf",
-    "link": "https://sandwiched.wtf/",
-    "cause": "Signal timed out."
-  },
-  "saymore": {
-    "name": "Say More",
-    "link": "https://saymore.tv/",
-    "cause": "Signal timed out."
-  },
   "seaswap": {
     "name": "SeaSwap",
     "link": "https://seaswap.exchange/swap",
-    "cause": "Signal timed out."
-  },
-  "skiff": {
-    "name": "Skiff",
-    "link": "https://www.skiff.org/",
-    "cause": "error sending request for url (https://skiff.com/#undefined): error trying to connect: invalid peer certificate: Other(CaUsedAsEndEntity)"
+    "cause": "error sending request for url (https://seaswap.exchange/swap): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   },
   "skylabsnft": {
     "name": "SkyLabs",
@@ -493,5 +363,10 @@
     "name": "Uni.vote",
     "link": "https://uni.vote/",
     "cause": "Signal timed out."
+  },
+  "wagmidao": {
+    "name": "WagmiDAO",
+    "link": "https://wenwagmi.com/stake",
+    "cause": "error sending request for url (https://wenwagmi.com/stake): error trying to connect: invalid peer certificate: NotValidForName"
   }
 }
