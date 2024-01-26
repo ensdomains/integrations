@@ -595,10 +595,6 @@
     "name": "Eswap",
     "link": "https://app.eswap.tube/"
   },
-  "etag": {
-    "name": "ETag",
-    "link": "https://etag-eth.ipns.dweb.link/#/"
-  },
   "ethaf": {
     "name": "Eth.af",
     "link": "https://eth.af/"
@@ -1687,10 +1683,6 @@
     "name": "Sumswap",
     "link": "https://swap.sumswap.org/"
   },
-  "superfluid": {
-    "name": "Superfluid",
-    "link": "https://www.superfluid.finance/"
-  },
   "sushiswap": {
     "name": "SushiSwap",
     "link": "https://sushi.com/"
@@ -1838,10 +1830,6 @@
   "unlock": {
     "name": "Unlock",
     "link": "https://unlock-protocol.com/"
-  },
-  "unlonely": {
-    "name": "Unlonely",
-    "link": "https://www.unlonely.app/"
   },
   "unstoppablewallet": {
     "name": "Unstoppable Wallet",
