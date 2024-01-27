@@ -1,17 +1,12 @@
 {
-  "etag": {
-    "name": "ETag",
-    "link": "https://etag-eth.ipns.dweb.link/#/",
+  "juiceboxprotocol": {
+    "name": "Juicebox",
+    "link": "https://juicebox.money/#/",
     "cause": "Signal timed out."
   },
-  "superfluid": {
-    "name": "Superfluid",
-    "link": "https://www.superfluid.finance/",
-    "cause": "Signal timed out."
-  },
-  "unlonely": {
-    "name": "Unlonely",
-    "link": "https://www.unlonely.app/",
-    "cause": "Signal timed out."
+  "revery": {
+    "name": "Revery",
+    "link": "https://revery.so/",
+    "cause": "error sending request for url (https://revery.so/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
   }
 }
