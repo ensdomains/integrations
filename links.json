@@ -51,10 +51,6 @@
     "name": "Aragon",
     "link": "https://aragon.org/"
   },
-  "arborfinance": {
-    "name": "Arbor Finance",
-    "link": "https://arbor.finance/"
-  },
   "archerswap": {
     "name": "Archerswap",
     "link": "https://swap.archerdao.io/#/swap"
@@ -847,10 +843,6 @@
     "name": "Hundred Finance",
     "link": "https://hundred.finance/"
   },
-  "huobi": {
-    "name": "Huobi",
-    "link": "https://www.huobiwallet.com/"
-  },
   "hyaliko": {
     "name": "Hyaliko",
     "link": "https://www.hyaliko.com/"
@@ -1102,10 +1094,6 @@
   "milliondollartokenpage": {
     "name": "Million Dollar Token Page",
     "link": "https://milliondollartokenpage.com/"
-  },
-  "mintable": {
-    "name": "Mintable",
-    "link": "https://mintable.app/"
   },
   "mintbase": {
     "name": "Mintbase",
@@ -1615,10 +1603,6 @@
     "name": "SquidDAO",
     "link": "https://squid.xyz/"
   },
-  "stablepay": {
-    "name": "StablePay",
-    "link": "https://stablepay.io/"
-  },
   "stakedao": {
     "name": "Stake DAO",
     "link": "https://app.stakedao.org/"
@@ -1778,10 +1762,6 @@
   "torus": {
     "name": "Torus",
     "link": "https://tor.us/"
-  },
-  "totem": {
-    "name": "Totem",
-    "link": "https://totem.network"
   },
   "tracer": {
     "name": "Tracer",

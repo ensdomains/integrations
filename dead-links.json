@@ -1,12 +1,27 @@
 {
-  "juiceboxprotocol": {
-    "name": "Juicebox",
-    "link": "https://juicebox.money/#/",
+  "arborfinance": {
+    "name": "Arbor Finance",
+    "link": "https://arbor.finance/",
     "cause": "Signal timed out."
   },
-  "revery": {
-    "name": "Revery",
-    "link": "https://revery.so/",
-    "cause": "error sending request for url (https://revery.so/): error trying to connect: dns error: failed to lookup address information: Name or service not known"
+  "huobi": {
+    "name": "Huobi",
+    "link": "https://www.huobiwallet.com/",
+    "cause": "Signal timed out."
+  },
+  "mintable": {
+    "name": "Mintable",
+    "link": "https://mintable.app/",
+    "cause": "Signal timed out."
+  },
+  "stablepay": {
+    "name": "StablePay",
+    "link": "https://stablepay.io/",
+    "cause": "Signal timed out."
+  },
+  "totem": {
+    "name": "Totem",
+    "link": "https://totem.network",
+    "cause": "Signal timed out."
   }
 }
