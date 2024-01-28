@@ -12,7 +12,7 @@ const deadLinks: Links<{cause: unknown}> = {}
 
 for (const [key, { name, link }] of Object.entries(links)) {
   try {
-    const res = await fetch(link, { signal: AbortSignal.timeout(3000),cache:'no-store' })
+    const res = await fetch(link, { signal: AbortSignal.timeout(10_000),cache:'no-store' })
     console.log(`${key}: status ${res.status}`)
 
     newLinks[key] = { name, link }
