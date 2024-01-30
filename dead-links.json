@@ -1,1 +1,12 @@
-{}
+{
+  "huobi": {
+    "name": "Huobi",
+    "link": "https://www.huobiwallet.com/",
+    "cause": "Signal timed out."
+  },
+  "invoicebuild": {
+    "name": "Invoice.build",
+    "link": "https://invoice.build/",
+    "cause": "Signal timed out."
+  }
+}

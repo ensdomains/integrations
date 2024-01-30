@@ -867,10 +867,6 @@
     "name": "Hundred Finance",
     "link": "https://hundred.finance/"
   },
-  "huobi": {
-    "name": "Huobi",
-    "link": "https://www.huobiwallet.com/"
-  },
   "hyaliko": {
     "name": "Hyaliko",
     "link": "https://www.hyaliko.com/"
@@ -918,10 +914,6 @@
   "inversefinance": {
     "name": "Inverse Finance",
     "link": "https://www.inverse.finance/"
-  },
-  "invoicebuild": {
-    "name": "Invoice.build",
-    "link": "https://invoice.build/"
   },
   "ipfs": {
     "name": "IPFS",
