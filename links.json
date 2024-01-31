@@ -191,10 +191,6 @@
     "name": "Brave",
     "link": "https://brave.com/"
   },
-  "brd": {
-    "name": "BRD",
-    "link": "https://brd.com/"
-  },
   "brightmoments": {
     "name": "Bright Moments",
     "link": "https://www.brightmoments.io/"
@@ -926,10 +922,6 @@
   "juggernaut": {
     "name": "JGN-NFT",
     "link": "https://nft.jgndefi.com/"
-  },
-  "juiceboxprotocol": {
-    "name": "Juicebox",
-    "link": "https://juicebox.money/#/"
   },
   "kalidao": {
     "name": "KaliDAO",

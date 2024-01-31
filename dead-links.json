@@ -1,12 +1,12 @@
 {
-  "huobi": {
-    "name": "Huobi",
-    "link": "https://www.huobiwallet.com/",
+  "brd": {
+    "name": "BRD",
+    "link": "https://brd.com/",
     "cause": "Signal timed out."
   },
-  "invoicebuild": {
-    "name": "Invoice.build",
-    "link": "https://invoice.build/",
+  "juiceboxprotocol": {
+    "name": "Juicebox",
+    "link": "https://juicebox.money/#/",
     "cause": "Signal timed out."
   }
 }
