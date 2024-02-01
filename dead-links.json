@@ -1,12 +1,17 @@
 {
-  "brd": {
-    "name": "BRD",
-    "link": "https://brd.com/",
+  "aragon": {
+    "name": "Aragon",
+    "link": "https://aragon.org/",
     "cause": "Signal timed out."
   },
-  "juiceboxprotocol": {
-    "name": "Juicebox",
-    "link": "https://juicebox.money/#/",
+  "buycoins": {
+    "name": "Buycoins",
+    "link": "https://buycoins.africa/",
     "cause": "Signal timed out."
+  },
+  "flashbotstools": {
+    "name": "Flashbots.tools",
+    "link": "https://flashbots.tools/",
+    "cause": "error sending request for url (https://flashbots.tools/): error trying to connect: invalid peer certificate: NotValidForName"
   }
 }

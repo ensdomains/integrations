@@ -51,10 +51,6 @@
     "name": "Approvals",
     "link": "https://approvals.xyz/"
   },
-  "aragon": {
-    "name": "Aragon",
-    "link": "https://aragon.org/"
-  },
   "arborfinance": {
     "name": "Arbor Finance",
     "link": "https://arbor.finance/"
@@ -198,10 +194,6 @@
   "btswap": {
     "name": "BTswap",
     "link": "https://btswap.com/#/"
-  },
-  "buycoins": {
-    "name": "Buycoins",
-    "link": "https://buycoins.africa/"
   },
   "buymeacryptocoffee": {
     "name": "Buy Me a Crypto Coffee",
@@ -714,10 +706,6 @@
   "fishvote": {
     "name": "Fish.vote",
     "link": "https://www.fish.vote/"
-  },
-  "flashbotstools": {
-    "name": "Flashbots.tools",
-    "link": "https://flashbots.tools/"
   },
   "fleek": {
     "name": "Fleek",
