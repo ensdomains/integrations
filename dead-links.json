@@ -1,17 +1,7 @@
 {
-  "aragon": {
-    "name": "Aragon",
-    "link": "https://aragon.org/",
+  "pinefinance": {
+    "name": "Pine.finance",
+    "link": "https://pine.finance/",
     "cause": "Signal timed out."
-  },
-  "buycoins": {
-    "name": "Buycoins",
-    "link": "https://buycoins.africa/",
-    "cause": "Signal timed out."
-  },
-  "flashbotstools": {
-    "name": "Flashbots.tools",
-    "link": "https://flashbots.tools/",
-    "cause": "error sending request for url (https://flashbots.tools/): error trying to connect: invalid peer certificate: NotValidForName"
   }
 }
