@@ -267,8 +267,7 @@
   },
   "coinbase": {
     "link": "https://coinbase.com/",
-    "name": "Coinbase",
-    "featuredWallet": 1
+    "name": "Coinbase"
   },
   "coinbasewallet": {
     "link": "https://wallet.coinbase.com/",
@@ -277,8 +276,7 @@
   },
   "coinbasewalletextension": {
     "link": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
-    "name": "Coinbase Wallet Extension",
-    "featuredBrowser": 1
+    "name": "Coinbase Wallet Extension"
   },
   "coindreams": {
     "link": "https://coindreams.io/",
@@ -783,6 +781,11 @@
   "gnosissafemultisig": {
     "link": "https://gnosis-safe.io",
     "name": "Gnosis Safe Multisig"
+  },
+  "godaddy": {
+    "link": "https://www.godaddy.com/",
+    "name": "GoDaddy",
+    "featuredApp": 1
   },
   "goodghosting": {
     "link": "https://goodghosting.com/",
@@ -1788,8 +1791,7 @@
   },
   "trustwallet": {
     "link": "https://trustwallet.com/",
-    "name": "Trust Wallet",
-    "featuredWallet": 4
+    "name": "Trust Wallet"
   },
   "twitterenstipper": {
     "link": "https://chrome.google.com/webstore/detail/twitter-ens-tipper/gnkipbkkefgbkghkinhggmhggbmjoknp/",
