@@ -190,7 +190,7 @@
   "brave": {
     "link": "https://brave.com/",
     "name": "Brave",
-    "featuredBrowser": 2
+    "featuredBrowser": 1
   },
   "brightmoments": {
     "link": "https://www.brightmoments.io/",
@@ -651,7 +651,8 @@
   },
   "ethlimo": {
     "link": "https://eth.limo/",
-    "name": "eth.limo"
+    "name": "eth.limo",
+    "featuredBrowser": 4
   },
   "ethmail": {
     "link": "http://ethmail.cc/",
@@ -1122,7 +1123,7 @@
   "metamask": {
     "link": "https://metamask.io/",
     "name": "MetaMask Extension",
-    "featuredBrowser": 3
+    "featuredWallet": 1
   },
   "metamaskmobile": {
     "link": "https://metamask.io/",
@@ -1191,6 +1192,11 @@
   "multisender": {
     "link": "https://multisender.app/",
     "name": "Multisender"
+  },
+  "mybox": {
+    "link": "https://my.box/",
+    "name": "my.box",
+    "featuredBrowser": 3
   },
   "myCrypto": {
     "link": "https://mycrypto.com/",
@@ -1682,7 +1688,7 @@
   "status": {
     "link": "https://status.im/",
     "name": "Status",
-    "featuredBrowser": 4
+    "featuredBrowser": 2
   },
   "steakwallet": {
     "link": "https://steakwallet.fi/",
