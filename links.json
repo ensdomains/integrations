@@ -1,8 +1,7 @@
 {
   "aave": {
     "link": "https://aave.com/",
-    "name": "Aave",
-    "featuredApp": 5
+    "name": "Aave"
   },
   "aavegotchi": {
     "link": "https://aavegotchi.com/",
@@ -640,7 +639,7 @@
   "etherscan": {
     "link": "https://etherscan.io",
     "name": "Etherscan",
-    "featuredApp": 2
+    "featuredApp": 5
   },
   "etherscanquick": {
     "link": "https://chrome.google.com/webstore/detail/etherscan-quick/nplfockicpoicmabmpjjkdiepdajflbn",
@@ -705,6 +704,16 @@
   "exquisiteland": {
     "link": "https://exquisite.land/",
     "name": "Exquisite Land"
+  },
+  "family": {
+    "link": "https://family.co/",
+    "name": "Family",
+    "featuredWallet": 5
+  },
+  "farcaster": {
+    "link": "https://farcaster.xyz/",
+    "name": "Farcaster",
+    "featuredApp": 2
   },
   "farmfol": {
     "link": "https://farmfol.io/",
@@ -1185,8 +1194,7 @@
   },
   "myCrypto": {
     "link": "https://mycrypto.com/",
-    "name": "MyCrypto",
-    "featuredWallet": 5
+    "name": "MyCrypto"
   },
   "myEtherWallet": {
     "link": "https://myetherwallet.com/",
@@ -1352,6 +1360,11 @@
   "partybid": {
     "link": "https://www.partybid.app/",
     "name": "PartyBid"
+  },
+  "phantom": {
+    "link": "https://phantom.app/",
+    "name": "Phantom",
+    "featuredWallet": 4
   },
   "phantomdao": {
     "link": "https://phantomdao.xyz/",
@@ -1589,11 +1602,6 @@
   "showme": {
     "link": "https://showme.fan/",
     "name": "ShowMe"
-  },
-  "showtime": {
-    "link": "https://tryshowtime.com/",
-    "name": "Showtime",
-    "featuredApp": 3
   },
   "sismo": {
     "link": "https://sismo.io/",
@@ -1854,9 +1862,9 @@
     "name": "Union"
   },
   "uniswap": {
-    "link": "https://uniswap.io/",
+    "link": "https://uniswap.org/",
     "name": "Uniswap",
-    "featuredApp": 1
+    "featuredApp": 3
   },
   "univote": {
     "link": "https://uni.vote/",
@@ -1912,8 +1920,7 @@
   },
   "webacy": {
     "link": "https://dapp.webacy.com/onboarding/signup",
-    "name": "Webacy",
-    "featuredApp": 6
+    "name": "Webacy"
   },
   "wepiggy": {
     "link": "https://www.wepiggy.com/",
