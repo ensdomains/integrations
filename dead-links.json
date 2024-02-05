@@ -1,357 +1,87 @@
 {
-  "append": {
-    "link": "https://tryappend.com/",
+  "bankless": {
+    "link": "https://www.microsoft.com/en-us/p/bankless/9p50f616xcdj",
+    "cause": "not found",
+    "name": "Bankless"
+  },
+  "eidoo": {
+    "link": "https://eidoo.io/",
+    "cause": "not found",
+    "name": "Eidoo"
+  },
+  "elyfi": {
+    "link": "https://www.elyfi.world/en",
+    "cause": "not found",
+    "name": "ELYFI"
+  },
+  "etherscanquick": {
+    "link": "https://chrome.google.com/webstore/detail/etherscan-quick/nplfockicpoicmabmpjjkdiepdajflbn",
+    "cause": "not found",
+    "name": "Etherscan Quick"
+  },
+  "ethmojis": {
+    "link": "https://ethmojis.com/",
+    "cause": "not found",
+    "name": "Ethmojis"
+  },
+  "ethsimple": {
+    "link": "https://ethsimple.com/",
+    "cause": "not found",
+    "name": "ETHSimple"
+  },
+  "justfrens": {
+    "link": "https://justfrens.xyz/",
+    "cause": "error sending request for url (https://justfrens.xyz/): error trying to connect: invalid peer certificate: NotValidForName",
+    "name": "just frens"
+  },
+  "mazury": {
+    "link": "https://app.mazury.xyz/",
+    "cause": "not found",
+    "name": "Mazury"
+  },
+  "momentranks": {
+    "link": "https://momentranks.com/",
+    "cause": "not found",
+    "name": "MomentRanks"
+  },
+  "movement": {
+    "link": "https://www.movement.fm/",
+    "cause": "error sending request for url (https://www.movement.fm/): error trying to connect: tls handshake eof",
+    "name": "movement"
+  },
+  "raricapital": {
+    "link": "https://app.rari.capital/",
+    "cause": "not found",
+    "name": "Rari Capital"
+  },
+  "reimaginedfi": {
+    "link": "https://www.reimagined.fi/app",
+    "cause": "not found",
+    "name": "ReFi"
+  },
+  "squiddao": {
+    "link": "https://squid.xyz/",
+    "cause": "not found",
+    "name": "SquidDAO"
+  },
+  "synthetix": {
+    "link": "https://docs.synthetix.io/integrations/ens/",
+    "cause": "not found",
+    "name": "Synthetix"
+  },
+  "totem": {
+    "link": "https://totem.network",
     "cause": "Signal timed out.",
-    "name": "Append"
-  },
-  "argo": {
-    "link": "https://argoapp.live/",
-    "cause": "error sending request for url (https://argoapp.live/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Argo"
-  },
-  "armada": {
-    "link": "https://tryarmada.com/",
-    "cause": "error sending request for url (https://tryarmada.com/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "Armada"
-  },
-  "brd": {
-    "link": "https://brd.com/",
-    "cause": "Signal timed out.",
-    "name": "BRD"
-  },
-  "buidlhub": {
-    "link": "https://buidlhub.com/",
-    "cause": "error sending request for url (https://buidlhub.com/): error trying to connect: tcp connect error: Connection refused (os error 111)",
-    "name": "BUIDLHub"
-  },
-  "burnerwallet": {
-    "link": "https://wallet.burnerfactory.com/",
-    "cause": "error sending request for url (https://wallet.burnerfactory.com/): error trying to connect: invalid peer certificate: Expired",
-    "name": "Burner Wallet"
-  },
-  "carbonraindrops": {
-    "link": "https://carbonraindrops.com/",
-    "cause": "Signal timed out.",
-    "name": "Carbon Raindrops"
-  },
-  "chilliswap": {
-    "link": "https://exchange.chilliswap.org/",
-    "cause": "Signal timed out.",
-    "name": "Chilliswap"
-  },
-  "chipdips": {
-    "link": "https://chipdip.io/",
-    "cause": "error sending request for url (https://chipdip.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "ChipDips"
-  },
-  "cloutchat": {
-    "link": "https://cloutchat.xyz/",
-    "cause": "error sending request for url (https://cloutchat.xyz/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Cloutchat"
-  },
-  "crocofinance": {
-    "link": "https://croco.finance/",
-    "cause": "error sending request for url (https://croco.finance/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Croco Finance"
-  },
-  "dappquery": {
-    "link": "https://dappquery.com/integration/ens",
-    "cause": "error sending request for url (https://dappquery.com/integration/ens): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "Dapp Query"
-  },
-  "davatar": {
-    "link": "https://www.davatar.xyz/",
-    "cause": "error sending request for url (https://www.davatar.xyz/): error trying to connect: invalid peer certificate: Other(CaUsedAsEndEntity)",
-    "name": "Davatar"
-  },
-  "daylight": {
-    "link": "www.daylight.xyz",
-    "cause": "Invalid URL: 'www.daylight.xyz'",
-    "name": "Daylight"
-  },
-  "devdaovisualizer": {
-    "link": "https://devdao.raz.works/#/",
-    "cause": "error sending request for url (https://devdao.raz.works/#/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "DevDao Visualizer"
-  },
-  "doomcatrescue": {
-    "link": "https://www.doom.cat/",
-    "cause": "Signal timed out.",
-    "name": "Doom Cat Rescue"
-  },
-  "ensme": {
-    "link": "https://ens.me/",
-    "cause": "Signal timed out.",
-    "name": "ENS.me"
-  },
-  "ethcontractapp": {
-    "link": "https://ethcontract.app/",
-    "cause": "error sending request for url (https://ethcontract.app/): error trying to connect: invalid peer certificate: Expired",
-    "name": "ethcontract.app"
-  },
-  "fabrx": {
-    "link": "https://www.fabrx.io/",
-    "cause": "error sending request for url (https://www.fabrx.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Fabrx"
-  },
-  "fantastic12": {
-    "link": "https://f12.network/",
-    "cause": "error sending request for url (https://f12.network/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Fantastic12"
-  },
-  "freeens": {
-    "link": "http://freeens.xyz/",
-    "cause": "error sending request for url (http://freeens.xyz/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Free ENS"
-  },
-  "genie": {
-    "link": "https://genie.xyz/",
-    "cause": "error sending request for url (https://genie.xyz/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "Genie"
-  },
-  "gmxyz": {
-    "link": "https://gm.xyz/",
-    "cause": "error sending request for url (https://gm.xyz/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "gm.xyz"
-  },
-  "gnosissafe": {
-    "link": "https://safe.gnosis.io",
-    "cause": "error sending request for url (https://safe.gnosis.io/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Gnosis Safe"
-  },
-  "gopocket": {
-    "link": "https://gopocket.security/",
-    "cause": "error sending request for url (https://gopocket.security/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Go Pocket"
-  },
-  "headsupeuchre": {
-    "link": "https://www.headsupeuchre.com/",
-    "cause": "error sending request for url (https://www.headsupeuchre.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Heads Up Euchre"
-  },
-  "inscribe": {
-    "link": "https://inscribe.so/",
-    "cause": "error sending request for url (https://inscribe.so/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Inscribe"
-  },
-  "jarvis": {
-    "link": "https://beta.jarvis.network/welcome",
-    "cause": "error sending request for url (https://beta.jarvis.network/welcome): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Jarvis"
-  },
-  "kintsugifauceth": {
-    "link": "https://faucet.kintsugi.themerge.dev/",
-    "cause": "error sending request for url (https://faucet.kintsugi.themerge.dev/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Kintsugi FaucETH"
-  },
-  "lazy3d": {
-    "link": "https://lazy3d.com/",
-    "cause": "Signal timed out.",
-    "name": "Lazy3D"
-  },
-  "lilithswap": {
-    "link": "https://staking.lilithswap.com/",
-    "cause": "error sending request for url (https://staking.lilithswap.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Lilith Swap"
-  },
-  "linkswap": {
-    "link": "https://linkswap.app/",
-    "cause": "error sending request for url (https://linkswap.app/): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution",
-    "name": "Linkswap"
-  },
-  "masterpiece": {
-    "link": "https://masterpiece.so/",
-    "cause": "error sending request for url (https://masterpiece.so/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Masterpiece"
-  },
-  "mevu": {
-    "link": "https://mevu.bet/",
-    "cause": "Signal timed out.",
-    "name": "meVu"
-  },
-  "miniswap": {
-    "link": "https://www.minidex.com/",
-    "cause": "error sending request for url (https://www.minidex.com/): error trying to connect: invalid peer certificate: Expired",
-    "name": "MiniSwap"
-  },
-  "mistx": {
-    "link": "https://app.mistx.io/#/exchange",
-    "cause": "error sending request for url (https://app.mistx.io/#/exchange): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "mistX"
-  },
-  "moments": {
-    "link": "https://www.moments.ms/",
-    "cause": "error sending request for url (https://www.moments.ms/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Moments"
-  },
-  "moonshotbots": {
-    "link": "https://bots.moonshotcollective.space/",
-    "cause": "error sending request for url (https://bots.moonshotcollective.space/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Moonshot Bots"
-  },
-  "mover": {
-    "link": "https://viamover.com/",
-    "cause": "error sending request for url (https://viamover.com/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Mover"
-  },
-  "msgs": {
-    "link": "https://msgs.decentralandalytics.com/",
-    "cause": "error sending request for url (https://msgs.decentralandalytics.com/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "msgs.eth"
-  },
-  "mstable": {
-    "link": "https://mstable.app/",
-    "cause": "error sending request for url (https://mstable.app/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "mStable"
-  },
-  "namebazaar": {
-    "link": "https://namebazaar.io/",
-    "cause": "error sending request for url (https://namebazaar.io/): error trying to connect: invalid peer certificate: Expired",
-    "name": "Name Bazaar"
-  },
-  "nftreplicas": {
-    "link": "https://nftreplicas.xyz/",
-    "cause": "error sending request for url (https://nftreplicas.xyz/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "NFT Replicas"
-  },
-  "niftex": {
-    "link": "https://www.niftex.org/",
-    "cause": "error sending request for url (https://www.niftex.org/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "NIFTEX"
-  },
-  "nildao": {
-    "link": "https://www.nildao.xyz/",
-    "cause": "error sending request for url (https://www.nildao.xyz/): error trying to connect: tcp connect error: Connection refused (os error 111)",
-    "name": "Nil DAO"
-  },
-  "nolossclub": {
-    "link": "https://nolossclub.com/",
-    "cause": "error sending request for url (https://nolossclub.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "NO LOSS CLUB"
-  },
-  "notifi": {
-    "link": "notifi.xyz",
-    "cause": "Invalid URL: 'notifi.xyz'",
-    "name": "Notifi"
-  },
-  "omnibridge": {
-    "link": "https://omni.xdaichain.com/",
-    "cause": "error sending request for url (https://omni.xdaichain.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "OmniBridge"
-  },
-  "paytomat": {
-    "link": "https://paytomat.com/en/",
-    "cause": "Signal timed out.",
-    "name": "Paytomat"
-  },
-  "pixelportraits": {
-    "link": "https://www.thepixelportraits.me/",
-    "cause": "error sending request for url (https://www.thepixelportraits.me/): error trying to connect: invalid peer certificate: UnknownIssuer",
-    "name": "Pixel Portraits"
-  },
-  "polychaintwitterdrop": {
-    "link": "https://www.polychain.tech/twitter",
-    "cause": "error sending request for url (https://www.polychain.tech/twitter): error trying to connect: invalid peer certificate: Expired",
-    "name": "Polychain Twitter Airdrop"
-  },
-  "polyient": {
-    "link": "https://dex.polyient.games/",
-    "cause": "error sending request for url (https://dex.polyient.games/): error trying to connect: received fatal alert: UnrecognisedName",
-    "name": "Polyient DEX"
-  },
-  "pooledmoney": {
-    "link": "https://pooled.money/",
-    "cause": "error sending request for url (https://pooled.money/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "pooled.money"
-  },
-  "rareblocks": {
-    "link": "http://rareblocks.xyz/",
-    "cause": "error sending request for url (http://rareblocks.xyz/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Rareblocks"
-  },
-  "realitycards": {
-    "link": "https://realitycards.io/",
-    "cause": "error sending request for url (https://realitycards.io/): error trying to connect: tcp connect error: Connection refused (os error 111)",
-    "name": "Reality Cards"
-  },
-  "revery": {
-    "link": "https://revery.so/",
-    "cause": "error sending request for url (https://revery.so/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Revery"
-  },
-  "roles": {
-    "link": "https://roles.rug.tech/",
-    "cause": "error sending request for url (https://roles.rug.tech/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "ROLES by RUG.TECH"
-  },
-  "sakeswap": {
-    "link": "https://sakeswap.finance/",
-    "cause": "Signal timed out.",
-    "name": "SakeSwap"
-  },
-  "seaswap": {
-    "link": "https://seaswap.exchange/swap",
-    "cause": "error sending request for url (https://seaswap.exchange/swap): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "SeaSwap"
-  },
-  "skylabsnft": {
-    "link": "http://skylabsnft.com/",
-    "cause": "error sending request for url (http://skylabsnft.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "SkyLabs"
-  },
-  "snowbank": {
-    "link": "https://dapp.snowbank.finance/",
-    "cause": "error sending request for url (https://dapp.snowbank.finance/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Snowbank DAO"
-  },
-  "spheron": {
-    "link": "https://argoapp.net/",
-    "cause": "Signal timed out.",
-    "name": "Spheron"
-  },
-  "stib": {
-    "link": "https://stib.co/",
-    "cause": "error sending request for url (https://stib.co/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "StiB"
-  },
-  "swapmatic": {
-    "link": "https://app.swapmatic.io/",
-    "cause": "error sending request for url (https://app.swapmatic.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "SwapMatic"
-  },
-  "swapx": {
-    "link": "https://www.swapx.org/",
-    "cause": "Signal timed out.",
-    "name": "SwapX"
-  },
-  "tokenizedtweets": {
-    "link": "https://tokenizedtweets.com/",
-    "cause": "error sending request for url (https://tokenizedtweets.com/): error trying to connect: invalid peer certificate: Expired",
-    "name": "Tokenized Tweets"
-  },
-  "tornado": {
-    "link": "https://tornado.cash/",
-    "cause": "error sending request for url (https://tornado.cash/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Tornado Cash"
-  },
-  "torquemoney": {
-    "link": "https://torque.money/",
-    "cause": "error sending request for url (https://torque.money/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "Torque"
-  },
-  "trustlessfund": {
-    "link": "https://trustless.fund/",
-    "cause": "error sending request for url (https://trustless.fund/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "TrustlessFund"
-  },
-  "tutela": {
-    "link": "https://tutela.xyz/",
-    "cause": "Signal timed out.",
-    "name": "Tutela"
-  },
-  "wagmidao": {
-    "link": "https://wenwagmi.com/stake",
-    "cause": "error sending request for url (https://wenwagmi.com/stake): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "WagmiDAO"
+    "name": "Totem"
+  },
+  "wagmicards": {
+    "link": "https://www.wagmi.cards/",
+    "cause": "not found",
+    "name": "wagmi.cards"
+  },
+  "wip2p": {
+    "link": "http://ens.wip2p.com/",
+    "cause": "not found",
+    "name": "WIP2P"
   }
 }
