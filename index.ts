@@ -22,6 +22,11 @@ for (const [key, { link, ...rest }] of Object.entries(links)) {
     })
     console.log(`${key}: status ${res.status}`)
 
+    if (res.status === 404) {
+      deadLinks[key] = { link, cause: 'not found', ...rest }
+      continue
+    }
+
     newLinks[key] = { link, ...rest }
   } catch (err) {
     console.log(key, err)
