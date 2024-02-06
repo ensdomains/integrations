@@ -1,87 +1,17 @@
 {
-  "bankless": {
-    "link": "https://www.microsoft.com/en-us/p/bankless/9p50f616xcdj",
-    "cause": "not found",
-    "name": "Bankless"
-  },
-  "eidoo": {
-    "link": "https://eidoo.io/",
-    "cause": "not found",
-    "name": "Eidoo"
-  },
-  "elyfi": {
-    "link": "https://www.elyfi.world/en",
-    "cause": "not found",
-    "name": "ELYFI"
-  },
-  "etherscanquick": {
-    "link": "https://chrome.google.com/webstore/detail/etherscan-quick/nplfockicpoicmabmpjjkdiepdajflbn",
-    "cause": "not found",
-    "name": "Etherscan Quick"
-  },
-  "ethmojis": {
-    "link": "https://ethmojis.com/",
-    "cause": "not found",
-    "name": "Ethmojis"
-  },
-  "ethsimple": {
-    "link": "https://ethsimple.com/",
-    "cause": "not found",
-    "name": "ETHSimple"
-  },
-  "justfrens": {
-    "link": "https://justfrens.xyz/",
-    "cause": "error sending request for url (https://justfrens.xyz/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "just frens"
-  },
-  "mazury": {
-    "link": "https://app.mazury.xyz/",
-    "cause": "not found",
-    "name": "Mazury"
-  },
-  "momentranks": {
-    "link": "https://momentranks.com/",
-    "cause": "not found",
-    "name": "MomentRanks"
-  },
-  "movement": {
-    "link": "https://www.movement.fm/",
-    "cause": "error sending request for url (https://www.movement.fm/): error trying to connect: tls handshake eof",
-    "name": "movement"
-  },
-  "raricapital": {
-    "link": "https://app.rari.capital/",
-    "cause": "not found",
-    "name": "Rari Capital"
-  },
-  "reimaginedfi": {
-    "link": "https://www.reimagined.fi/app",
-    "cause": "not found",
-    "name": "ReFi"
-  },
-  "squiddao": {
-    "link": "https://squid.xyz/",
-    "cause": "not found",
-    "name": "SquidDAO"
-  },
-  "synthetix": {
-    "link": "https://docs.synthetix.io/integrations/ens/",
-    "cause": "not found",
-    "name": "Synthetix"
-  },
-  "totem": {
-    "link": "https://totem.network",
+  "invoicebuild": {
+    "link": "https://invoice.build/",
     "cause": "Signal timed out.",
-    "name": "Totem"
+    "name": "Invoice.build"
   },
-  "wagmicards": {
-    "link": "https://www.wagmi.cards/",
-    "cause": "not found",
-    "name": "wagmi.cards"
+  "juiceboxprotocol": {
+    "link": "https://juicebox.money/#/",
+    "cause": "Signal timed out.",
+    "name": "Juicebox"
   },
-  "wip2p": {
-    "link": "http://ens.wip2p.com/",
-    "cause": "not found",
-    "name": "WIP2P"
+  "zippie": {
+    "link": "https://www.zippie.com/",
+    "cause": "Signal timed out.",
+    "name": "Zippie"
   }
 }

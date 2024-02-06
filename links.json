@@ -911,10 +911,6 @@
     "link": "https://www.inverse.finance/",
     "name": "Inverse Finance"
   },
-  "invoicebuild": {
-    "link": "https://invoice.build/",
-    "name": "Invoice.build"
-  },
   "ipfs": {
     "link": "https://ipfs.io/",
     "name": "IPFS"
@@ -926,10 +922,6 @@
   "juggernaut": {
     "link": "https://nft.jgndefi.com/",
     "name": "JGN-NFT"
-  },
-  "juiceboxprotocol": {
-    "link": "https://juicebox.money/#/",
-    "name": "Juicebox"
   },
   "kalidao": {
     "link": "https://app.kalidao.xyz/",
@@ -1941,10 +1933,6 @@
   "zigzagexchange": {
     "link": "https://info.zigzag.exchange/",
     "name": "ZigZag Exchange"
-  },
-  "zippie": {
-    "link": "https://www.zippie.com/",
-    "name": "Zippie"
   },
   "zora": {
     "link": "https://zora.co/",
