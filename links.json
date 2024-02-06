@@ -71,6 +71,10 @@
     "link": "https://www.argent.xyz/",
     "name": "Argent"
   },
+  "arkham": {
+    "link": "https://www.arkhamintelligence.com",
+    "name": "Arkham"
+  },
   "arrakis": {
     "link": "https://www.arrakis.finance/",
     "name": "Arrakis"
@@ -118,6 +122,10 @@
   "beacon": {
     "link": "https://impervious.com/beacon",
     "name": "Beacon"
+  },
+  "beam": {
+    "link": "https://beam.io",
+    "name": "Beam"
   },
   "beefyfinance": {
     "link": "https://www.beefy.finance/",
@@ -457,6 +465,10 @@
   "dia": {
     "link": "https://www.diadata.org/",
     "name": "DIA"
+  },
+  "disco": {
+    "link": "https://www.disco.xyz/",
+    "name": "Disco"
   },
   "dnsxyz": {
     "link": "https://dns.xyz/",
@@ -1237,6 +1249,10 @@
     "link": "https://oceanprotocol.com/",
     "name": "Ocean Protocol"
   },
+  "okutrade": {
+    "link": "https://oku.trade/",
+    "name": "OkuTrade"
+  },
   "olympusdao": {
     "link": "https://app.olympusdao.finance/",
     "name": "OlympusDAO"
@@ -1330,6 +1346,10 @@
   "phantomdao": {
     "link": "https://phantomdao.xyz/",
     "name": "PhantomDAO"
+  },
+  "phi": {
+    "link": "https://philand.xyz/",
+    "name": "Phi"
   },
   "photochromic": {
     "link": "https://photochromic.io/",
@@ -1842,6 +1862,10 @@
     "link": "https://www.venly.io/",
     "name": "Venly"
   },
+  "vision": {
+    "link": "https://vision.io",
+    "name": "Vision"
+  },
   "waffle": {
     "link": "https://getwaffle.io/",
     "name": "Waffle"
@@ -1857,6 +1881,10 @@
   "webacy": {
     "link": "https://dapp.webacy.com/onboarding/signup",
     "name": "Webacy"
+  },
+  "webhash": {
+    "link": "https://webhash.com/",
+    "name": "WebHash"
   },
   "wepiggy": {
     "link": "https://www.wepiggy.com/",
