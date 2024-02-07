@@ -1,17 +1,17 @@
 {
-  "invoicebuild": {
-    "link": "https://invoice.build/",
+  "buycoins": {
+    "link": "https://buycoins.africa/",
     "cause": "Signal timed out.",
-    "name": "Invoice.build"
+    "name": "Buycoins"
   },
-  "juiceboxprotocol": {
-    "link": "https://juicebox.money/#/",
-    "cause": "Signal timed out.",
-    "name": "Juicebox"
+  "nidhidao": {
+    "link": "https://www.nidhidao.finance/",
+    "cause": "error sending request for url (https://www.nidhidao.finance/): error trying to connect: invalid peer certificate: NotValidForName",
+    "name": "Nidhi DAO"
   },
-  "zippie": {
-    "link": "https://www.zippie.com/",
+  "plugcool": {
+    "link": "https://plug.cool/",
     "cause": "Signal timed out.",
-    "name": "Zippie"
+    "name": "plug.cool"
   }
 }

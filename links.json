@@ -204,10 +204,6 @@
     "link": "https://btswap.com/#/",
     "name": "BTswap"
   },
-  "buycoins": {
-    "link": "https://buycoins.africa/",
-    "name": "Buycoins"
-  },
   "buymeacryptocoffee": {
     "link": "https://www.buymeacryptocoffee.xyz/",
     "name": "Buy Me a Crypto Coffee"
@@ -1209,10 +1205,6 @@
     "link": "https://nftychat.xyz/",
     "name": "nfty chat"
   },
-  "nidhidao": {
-    "link": "https://www.nidhidao.finance/",
-    "name": "Nidhi DAO"
-  },
   "niftygateway": {
     "link": "https://niftygateway.com/",
     "name": "Nifty Gateway"
@@ -1382,10 +1374,6 @@
   "plasmafinance": {
     "link": "https://plasma.finance/",
     "name": "Plasma.finance"
-  },
-  "plugcool": {
-    "link": "https://plug.cool/",
-    "name": "plug.cool"
   },
   "poap": {
     "link": "https://www.poap.xyz/",
