@@ -686,10 +686,6 @@
     "name": "Farcaster",
     "featuredApp": 2
   },
-  "farmfol": {
-    "link": "https://farmfol.io/",
-    "name": "farmfol.io"
-  },
   "findeth": {
     "link": "https://findeth.io/",
     "name": "FindETH"
@@ -733,10 +729,6 @@
   "frame": {
     "link": "https://frame.sh/",
     "name": "Frame"
-  },
-  "frenspage": {
-    "link": "https://frens.page/",
-    "name": "frens.page"
   },
   "frontierwallet": {
     "link": "https://frontierwallet.com/",
@@ -1768,10 +1760,6 @@
   "tracer": {
     "link": "https://pools.tracer.finance/",
     "name": "Tracer"
-  },
-  "truffle": {
-    "link": "https://www.trufflesuite.com/",
-    "name": "Truffle Suite"
   },
   "trusteewallet": {
     "link": "https://trusteeglobal.com/",
