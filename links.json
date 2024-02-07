@@ -15,14 +15,6 @@
     "link": "https://alchemydao.com/",
     "name": "AlchemyDAO"
   },
-  "almonit": {
-    "link": "https://almonit.eth.limo/",
-    "name": "Almonit"
-  },
-  "almonitextension": {
-    "link": "https://almonit.eth.limo/",
-    "name": "Almonit Extension"
-  },
   "alohabrowser": {
     "link": "https://alohabrowser.com/",
     "name": "Aloha Browser"
@@ -83,13 +75,9 @@
     "link": "https://atticc.xyz/",
     "name": "Atticc"
   },
-  "authereum": {
-    "link": "https://authereum.org/",
-    "name": "Authereum"
-  },
-  "backdfund": {
-    "link": "https://backd.fund/",
-    "name": "Backd"
+  "mero": {
+    "link": "https://mero.finance/",
+    "name": "Mero"
   },
   "backdrop": {
     "link": "https://backdrop.so/",
@@ -176,7 +164,7 @@
     "name": "Blockscan"
   },
   "blocto": {
-    "link": "https://blocto.portto.io/en/",
+    "link": "https://blocto.io/",
     "name": "Blocto"
   },
   "blurio": {
@@ -812,7 +800,7 @@
     "name": "Gro"
   },
   "guarda": {
-    "link": "http://guarda.co/",
+    "link": "http://guarda.com/",
     "name": "Guarda"
   },
   "guild": {
@@ -867,9 +855,9 @@
     "link": "https://hundred.finance/",
     "name": "Hundred Finance"
   },
-  "huobi": {
-    "link": "https://www.huobiwallet.com/",
-    "name": "Huobi"
+  "itoken": {
+    "link": "https://www.itoken.com/",
+    "name": "iToken"
   },
   "hyaliko": {
     "link": "https://www.hyaliko.com/",
@@ -1641,9 +1629,9 @@
     "name": "Status",
     "featuredBrowser": 2
   },
-  "steakwallet": {
-    "link": "https://steakwallet.fi/",
-    "name": "Steakwallet"
+  "omni": {
+    "link": "https://omni.app/",
+    "name": "Omni"
   },
   "stelo": {
     "link": "https://www.stelolabs.com/",
@@ -1954,10 +1942,6 @@
     "link": "https://zora.co/",
     "name": "Zora"
   },
-  "0exchange": {
-    "link": "https://app.0.exchange/",
-    "name": "0 Exchange"
-  },
   "1inch": {
     "link": "https://1inch.io/",
     "name": "1inch"
@@ -1966,9 +1950,9 @@
     "link": "https://1inch.io/",
     "name": "1inch Wallet"
   },
-  "3box": {
-    "link": "https://3box.io/hub",
-    "name": "3Box Hub"
+  "ceramic": {
+    "link": "https://ceramic.network/",
+    "name": "Ceramic"
   },
   "3fmutual": {
     "link": "https://3fmutual.com/",
