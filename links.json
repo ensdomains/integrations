@@ -131,10 +131,6 @@
     "link": "https://www.bitcoin.com/",
     "name": "Bitcoin.com Wallet"
   },
-  "bitsearch": {
-    "link": "https://bitsear.ch/",
-    "name": "Bitsear.ch"
-  },
   "blackholeswap": {
     "link": "https://blackholeswap.com/swap",
     "name": "BlackHoleSwap"
@@ -192,10 +188,6 @@
     "link": "https://btswap.com/#/",
     "name": "BTswap"
   },
-  "buymeacryptocoffee": {
-    "link": "https://www.buymeacryptocoffee.xyz/",
-    "name": "Buy Me a Crypto Coffee"
-  },
   "cancelethereumtransactions": {
     "link": "https://cancel-ethereum-transactions.web.app/cancel",
     "name": "Cancel Ethereum Transactions"
@@ -207,10 +199,6 @@
   "carbonfyi": {
     "link": "https://carbon.fyi/",
     "name": "carbon.fyi"
-  },
-  "cardpunks": {
-    "link": "https://cardpunks.eth.limo/",
-    "name": "Cardpunks"
   },
   "ccswap": {
     "link": "https://app.ccswap.org/",
@@ -526,10 +514,6 @@
     "link": "https://element.market",
     "name": "Element"
   },
-  "emiswap": {
-    "link": "https://emiswap.com/",
-    "name": "EmiSwap"
-  },
   "encirca": {
     "link": "https://www.encirca.com/eth/",
     "name": "EnCirca"
@@ -698,12 +682,8 @@
     "link": "https://www.fish.vote/",
     "name": "Fish.vote"
   },
-  "flashbotstools": {
-    "link": "https://flashbots.tools/",
-    "name": "Flashbots.tools"
-  },
   "fleek": {
-    "link": "https://fleek.co/",
+    "link": "https://fleek.xyz/",
     "name": "Fleek"
   },
   "flipxyz": {
@@ -741,10 +721,6 @@
   "gashawk": {
     "link": "https://gashawk.io/",
     "name": "GasHawk"
-  },
-  "gem": {
-    "link": "https://www.gem.xyz/",
-    "name": "Gem"
   },
   "gemwallet": {
     "link": "https://gemwallet.com/",
@@ -876,7 +852,7 @@
     "name": "Immutables"
   },
   "impersonator": {
-    "link": "https://apoorvlathey.com/impersonator/",
+    "link": "https://impersonator.xyz",
     "name": "Impersonator"
   },
   "inb0x": {
@@ -942,10 +918,6 @@
   "knownorigin": {
     "link": "https://knownorigin.io/",
     "name": "KnownOrigin"
-  },
-  "knowyourdefi": {
-    "link": "https://www.knowyourdefi.com/",
-    "name": "KnowYourDefi"
   },
   "kwikswap": {
     "link": "https://app.kwikswap.org/",
@@ -1022,10 +994,6 @@
   "lostpoets": {
     "link": "https://lostpoets.xyz/",
     "name": "Lost Poets"
-  },
-  "luaswap": {
-    "link": "https://app.luaswap.org/#/swap",
-    "name": "LuaSwap"
   },
   "lunarpay": {
     "link": "https://www.lunarpay.in/",
@@ -1488,10 +1456,6 @@
     "link": "https://saddle.finance/#/",
     "name": "Saddle"
   },
-  "safekeep": {
-    "link": "https://safekeep.app/",
-    "name": "SafeKeep"
-  },
   "sandboxgame": {
     "link": "https://sandbox.game/",
     "name": "The Sandbox"
@@ -1551,10 +1515,6 @@
   "skiff": {
     "link": "https://www.skiff.org/",
     "name": "Skiff"
-  },
-  "skytale": {
-    "link": "https://skytale.finance/",
-    "name": "Skytale"
   },
   "slice": {
     "link": "https://slice.so/",
@@ -1624,14 +1584,6 @@
   "omni": {
     "link": "https://omni.app/",
     "name": "Omni"
-  },
-  "stelo": {
-    "link": "https://www.stelolabs.com/",
-    "name": "Stelo"
-  },
-  "stickies": {
-    "link": "https://stickies.xyz/",
-    "name": "Stickies"
   },
   "strikefinance": {
     "link": "https://strike.org/",
