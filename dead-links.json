@@ -1,17 +1,1 @@
-{
-  "buycoins": {
-    "link": "https://buycoins.africa/",
-    "cause": "Signal timed out.",
-    "name": "Buycoins"
-  },
-  "nidhidao": {
-    "link": "https://www.nidhidao.finance/",
-    "cause": "error sending request for url (https://www.nidhidao.finance/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "Nidhi DAO"
-  },
-  "plugcool": {
-    "link": "https://plug.cool/",
-    "cause": "Signal timed out.",
-    "name": "plug.cool"
-  }
-}
+{}
