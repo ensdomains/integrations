@@ -1,12 +1,1 @@
-{
-  "itoken": {
-    "link": "https://www.itoken.com/",
-    "cause": "Signal timed out.",
-    "name": "iToken"
-  },
-  "looksmutable": {
-    "link": "https://looksmutable.com/",
-    "cause": "Signal timed out.",
-    "name": "looksmutable"
-  }
-}
+{}
