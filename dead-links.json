@@ -1,1 +1,7 @@
-{}
+{
+  "pinefinance": {
+    "link": "https://pine.finance/",
+    "cause": "Signal timed out.",
+    "name": "Pine.finance"
+  }
+}
