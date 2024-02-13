@@ -1,7 +1,7 @@
 {
-  "pinefinance": {
-    "link": "https://pine.finance/",
-    "cause": "Signal timed out.",
-    "name": "Pine.finance"
+  "coinbasewalletextension": {
+    "link": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
+    "cause": "Fetch failed: Maximum number of redirects (20) reached",
+    "name": "Coinbase Wallet Extension"
   }
 }
