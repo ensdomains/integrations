@@ -1,7 +1,1 @@
-{
-  "coinbasewalletextension": {
-    "link": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
-    "cause": "Fetch failed: Maximum number of redirects (20) reached",
-    "name": "Coinbase Wallet Extension"
-  }
-}
+{}
