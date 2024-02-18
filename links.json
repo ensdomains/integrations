@@ -574,10 +574,6 @@
     "link": "https://etag-eth.ipns.dweb.link/#/",
     "name": "ETag"
   },
-  "ethaf": {
-    "link": "https://eth.af/",
-    "name": "Eth.af"
-  },
   "etharmy": {
     "link": "https://eth.army/",
     "name": "Eth.army"
@@ -1535,10 +1531,6 @@
   "squeeth": {
     "link": "https://squeeth.com/",
     "name": "Squeeth"
-  },
-  "stablepay": {
-    "link": "https://stablepay.io/",
-    "name": "StablePay"
   },
   "stakedao": {
     "link": "https://app.stakedao.org/",
