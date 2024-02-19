@@ -228,10 +228,6 @@
     "link": "https://www.charmverse.io/",
     "name": "CharmVerse"
   },
-  "chatrooms": {
-    "link": "https://chatrooms.eth.limo/",
-    "name": "Chatrooms"
-  },
   "clarity": {
     "link": "https://www.clarity.so/",
     "name": "Clarity"
@@ -469,10 +465,6 @@
   "dustsweeper": {
     "link": "https://www.dustsweeper.xyz/",
     "name": "Dust Sweeper"
-  },
-  "dxdao": {
-    "link": "https://dxdao.eth.limo/",
-    "name": "DXdao"
   },
   "dynalock": {
     "link": "https://play.google.com/store/apps/details?id=cz.telematix.ethereumwallet",
@@ -717,10 +709,6 @@
   "gemwallet": {
     "link": "https://gemwallet.com/",
     "name": "Gem Wallet"
-  },
-  "geocitieseth": {
-    "link": "https://geocities.eth.limo/",
-    "name": "GeoCities.eth"
   },
   "gitcoin": {
     "link": "https://gitcoin.co/",
@@ -1507,10 +1495,6 @@
   "snapshotlabs": {
     "link": "https://snapshot.page/",
     "name": "Snapshot"
-  },
-  "sockexplorer": {
-    "link": "https://sockexplorer.eth.limo/",
-    "name": "Sock Explorer"
   },
   "songaday": {
     "link": "https://songaday.world/",
