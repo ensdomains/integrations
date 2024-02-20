@@ -1,22 +1,7 @@
 {
-  "chatrooms": {
-    "link": "https://chatrooms.eth.limo/",
+  "tkreth": {
+    "link": "https://tkr.eth.limo/#ens",
     "cause": "Signal timed out.",
-    "name": "Chatrooms"
-  },
-  "dxdao": {
-    "link": "https://dxdao.eth.limo/",
-    "cause": "Signal timed out.",
-    "name": "DXdao"
-  },
-  "geocitieseth": {
-    "link": "https://geocities.eth.limo/",
-    "cause": "Signal timed out.",
-    "name": "GeoCities.eth"
-  },
-  "sockexplorer": {
-    "link": "https://sockexplorer.eth.limo/",
-    "cause": "Signal timed out.",
-    "name": "Sock Explorer"
+    "name": "TickerDAO"
   }
 }
