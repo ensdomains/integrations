@@ -987,6 +987,10 @@
     "link": "https://studio.manifold.xyz/",
     "name": "Manifold Studio"
   },
+  "masca": {
+    "link": "https://masca.io",
+    "name": "Masca"
+  }.
   "masknetwork": {
     "link": "https://mask.io/",
     "name": "Mask Network"
