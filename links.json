@@ -286,10 +286,6 @@
     "link": "https://connextscan.io/",
     "name": "Connext Explorer"
   },
-  "context": {
-    "link": "https://context.app/",
-    "name": "Context"
-  },
   "covalent": {
     "link": "https://www.covalenthq.com/",
     "name": "Covalent"
@@ -662,10 +658,6 @@
     "link": "https://flip.xyz/",
     "name": "Flip.xyz"
   },
-  "floatify": {
-    "link": "https://beta.floatify.net/",
-    "name": "Floatify"
-  },
   "flooredape": {
     "link": "https://flooredape.io/",
     "name": "flooredApe"
@@ -718,10 +710,6 @@
     "link": "https://www.godaddy.com/",
     "name": "GoDaddy",
     "featuredApp": 1
-  },
-  "goodghosting": {
-    "link": "https://goodghosting.com/",
-    "name": "GoodGhosting"
   },
   "grapefinance": {
     "link": "https://grapefinance.app/",
@@ -843,10 +831,6 @@
     "link": "https://isotile.com/",
     "name": "Isotile"
   },
-  "juggernaut": {
-    "link": "https://nft.jgndefi.com/",
-    "name": "JGN-NFT"
-  },
   "kalidao": {
     "link": "https://app.kalidao.xyz/",
     "name": "KaliDAO"
@@ -863,10 +847,6 @@
     "link": "https://keyst.one/",
     "name": "Keystone"
   },
-  "kickback": {
-    "link": "https://kickback.events/",
-    "name": "Kickback"
-  },
   "kingswap": {
     "link": "https://www.kingswap.io/",
     "name": "Kingswap Exchange"
@@ -882,10 +862,6 @@
   "kwikswap": {
     "link": "https://app.kwikswap.org/",
     "name": "Kwikswap"
-  },
-  "kyberdmm": {
-    "link": "https://dmm.exchange/#/swap",
-    "name": "Kyber DMM"
   },
   "kyberswap": {
     "link": "https://kyberswap.com/swap",
@@ -1152,10 +1128,6 @@
   "olympusdao": {
     "link": "https://app.olympusdao.finance/",
     "name": "OlympusDAO"
-  },
-  "onchainart": {
-    "link": "https://www.0xchain.art/",
-    "name": "On-Chain Art"
   },
   "onekey": {
     "link": "https://onekey.so/download/",
@@ -1456,10 +1428,6 @@
     "link": "https://shields.build/",
     "name": "Shields"
   },
-  "showme": {
-    "link": "https://showme.fan/",
-    "name": "ShowMe"
-  },
   "sismo": {
     "link": "https://sismo.io/",
     "name": "Sismo"
@@ -1483,10 +1451,6 @@
   "songaday": {
     "link": "https://songaday.world/",
     "name": "Song a Day"
-  },
-  "sorbetfinance": {
-    "link": "https://www.sorbet.finance/",
-    "name": "Sorbet Finance"
   },
   "sovryn": {
     "link": "https://bitocracy.sovryn.app/",
@@ -1624,10 +1588,6 @@
   "tokemak": {
     "link": "https://www.tokemak.xyz/",
     "name": "Tokemak"
-  },
-  "tokenallowancechecker": {
-    "link": "https://tac.dappstar.io/",
-    "name": "Token Allowance Checker"
   },
   "tokenlists": {
     "link": "https://tokenlists.org/",
@@ -1793,10 +1753,6 @@
   "youngplatform": {
     "link": "https://youngplatform.com/",
     "name": "Young Platform"
-  },
-  "zang": {
-    "link": "https://beta.zang.gallery/",
-    "name": "Zang"
   },
   "zapperfi": {
     "link": "https://www.zapper.fi/",
