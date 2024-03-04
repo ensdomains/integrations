@@ -1,7 +1,1 @@
-{
-  "poapart": {
-    "link": "https://poap.art/",
-    "cause": "error sending request for url (https://poap.art/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "POAP.art"
-  }
-}
+{}
