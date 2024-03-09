@@ -1,7 +1,1 @@
-{
-  "etharmy": {
-    "link": "https://eth.army/",
-    "cause": "error sending request for url (https://eth.army/): error trying to connect: invalid peer certificate: NotValidForName",
-    "name": "Eth.army"
-  }
-}
+{}
