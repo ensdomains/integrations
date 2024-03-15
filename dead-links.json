@@ -1,1 +1,12 @@
-{}
+{
+  "frontierwallet": {
+    "link": "https://frontierwallet.com/",
+    "cause": "Signal timed out.",
+    "name": "Frontier Wallet"
+  },
+  "waffle": {
+    "link": "https://getwaffle.io/",
+    "cause": "Signal timed out.",
+    "name": "Waffle"
+  }
+}

@@ -666,10 +666,6 @@
     "link": "https://frame.sh/",
     "name": "Frame"
   },
-  "frontierwallet": {
-    "link": "https://frontierwallet.com/",
-    "name": "Frontier Wallet"
-  },
   "galleria": {
     "link": "https://apps.apple.com/us/app/galleria-explore-nfts/id1604013393",
     "name": "Galleria"
@@ -1661,10 +1657,6 @@
   "vision": {
     "link": "https://vision.io",
     "name": "Vision"
-  },
-  "waffle": {
-    "link": "https://getwaffle.io/",
-    "name": "Waffle"
   },
   "walleth": {
     "link": "https://walleth.org/",
