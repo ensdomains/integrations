@@ -1,1 +1,7 @@
-{}
+{
+  "compvote": {
+    "link": "https://comp.vote/",
+    "cause": "Signal timed out.",
+    "name": "Comp.vote"
+  }
+}
