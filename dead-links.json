@@ -1,1 +1,7 @@
-{}
+{
+  "kingswap": {
+    "link": "https://www.kingswap.io/",
+    "cause": "Signal timed out.",
+    "name": "Kingswap Exchange"
+  }
+}
