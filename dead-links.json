@@ -1,7 +1,1 @@
-{
-  "crocrow": {
-    "link": "https://crocrow.com/",
-    "cause": "error sending request for url (https://crocrow.com/): error trying to connect: tls handshake eof",
-    "name": "CRO CROW"
-  }
-}
+{}
