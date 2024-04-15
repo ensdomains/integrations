@@ -679,6 +679,11 @@
     "name": "GoDaddy",
     "featuredApp": 1
   },
+  "gdid": {
+    "link": "https://www.godid.io/",
+    "name": "Godid",
+    "featuredApp": 1
+  },
   "grapefinance": {
     "link": "https://grapefinance.app/",
     "name": "Grape Finance"
