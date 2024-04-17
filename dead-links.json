@@ -1,1 +1,7 @@
-{}
+{
+  "sandwichedwtf": {
+    "link": "https://sandwiched.wtf/",
+    "cause": "error sending request for url (https://sandwiched.wtf/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+    "name": "Sandwiched.wtf"
+  }
+}
