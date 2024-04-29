@@ -1,1 +1,7 @@
-{}
+{
+  "dether": {
+    "link": "https://dether.io/",
+    "cause": "error sending request for url (https://dether.io/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
+    "name": "Dether"
+  }
+}
