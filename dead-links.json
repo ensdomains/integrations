@@ -1,1 +1,12 @@
-{}
+{
+  "dcent": {
+    "link": "https://dcentwallet.com/",
+    "cause": "Signal timed out.",
+    "name": "D'CENT Wallet"
+  },
+  "songaday": {
+    "link": "https://songaday.world/",
+    "cause": "Signal timed out.",
+    "name": "Song a Day"
+  }
+}

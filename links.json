@@ -338,10 +338,6 @@
     "link": "https://dappradar.com/",
     "name": "DappRadar"
   },
-  "dcent": {
-    "link": "https://dcentwallet.com/",
-    "name": "D'CENT Wallet"
-  },
   "debank": {
     "link": "https://debank.com/",
     "name": "DeBank"
@@ -1395,10 +1391,6 @@
   "snapshotlabs": {
     "link": "https://snapshot.page/",
     "name": "Snapshot"
-  },
-  "songaday": {
-    "link": "https://songaday.world/",
-    "name": "Song a Day"
   },
   "sovryn": {
     "link": "https://bitocracy.sovryn.app/",
