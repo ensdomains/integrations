@@ -1,1 +1,7 @@
-{}
+{
+  "defi777": {
+    "link": "https://defi777.com/",
+    "cause": "error sending request for url (https://defi777.com/): error trying to connect: received fatal alert: UnrecognisedName",
+    "name": "DeFi777"
+  }
+}
