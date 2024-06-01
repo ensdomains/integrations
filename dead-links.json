@@ -1,7 +1,7 @@
 {
-  "gashawk": {
-    "link": "https://gashawk.io/",
-    "cause": "error sending request for url (https://gashawk.io/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "name": "GasHawk"
+  "chargedparticles": {
+    "link": "https://charged.fi/",
+    "cause": "Fetch failed: Maximum number of redirects (20) reached",
+    "name": "Charged Particles"
   }
 }
