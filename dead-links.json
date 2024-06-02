@@ -1,7 +1,12 @@
 {
-  "chargedparticles": {
-    "link": "https://charged.fi/",
-    "cause": "Fetch failed: Maximum number of redirects (20) reached",
-    "name": "Charged Particles"
+  "defor": {
+    "link": "https://www.defor.io/",
+    "cause": "Signal timed out.",
+    "name": "Defor"
+  },
+  "relay": {
+    "link": "https://app.relaychain.com/",
+    "cause": "Signal timed out.",
+    "name": "Relay"
   }
 }
