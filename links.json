@@ -354,10 +354,6 @@
     "link": "https://crypto.com/defi/swap",
     "name": "Defi Swap"
   },
-  "defor": {
-    "link": "https://www.defor.io/",
-    "name": "Defor"
-  },
   "defswap": {
     "link": "https://defswap.eth.limo/",
     "name": "Defswap"
@@ -1263,10 +1259,6 @@
   "redacted": {
     "link": "https://redacted.finance/",
     "name": "Redacted"
-  },
-  "relay": {
-    "link": "https://app.relaychain.com/",
-    "name": "Relay"
   },
   "request": {
     "link": "https://request.network/",
