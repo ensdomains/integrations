@@ -1,12 +1,1 @@
-{
-  "defor": {
-    "link": "https://www.defor.io/",
-    "cause": "Signal timed out.",
-    "name": "Defor"
-  },
-  "relay": {
-    "link": "https://app.relaychain.com/",
-    "cause": "Signal timed out.",
-    "name": "Relay"
-  }
-}
+{}
