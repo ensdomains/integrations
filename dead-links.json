@@ -1,7 +1,7 @@
 {
-  "flipxyz": {
-    "link": "https://flip.xyz/",
-    "cause": "not found",
-    "name": "Flip.xyz"
+  "drips": {
+    "link": "https://drips.network/",
+    "cause": "Signal timed out.",
+    "name": "Drips"
   }
 }
