@@ -1,1 +1,7 @@
-{}
+{
+  "unstoppablewallet": {
+    "link": "https://unstoppable.money/",
+    "cause": "error sending request for url (https://unstoppable.money/): error trying to connect: invalid peer certificate: Expired",
+    "name": "Unstoppable Wallet"
+  }
+}
