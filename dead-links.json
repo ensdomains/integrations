@@ -1,7 +1,7 @@
 {
-  "nonfungible": {
-    "link": "https://nonfungible.com/",
-    "cause": "Signal timed out.",
-    "name": "NonFungible"
+  "gnosissafemultisig": {
+    "link": "https://gnosis-safe.io",
+    "cause": "error sending request for url (https://gnosis-safe.io/): error trying to connect: invalid peer certificate: NotValidForName",
+    "name": "Gnosis Safe Multisig"
   }
 }
